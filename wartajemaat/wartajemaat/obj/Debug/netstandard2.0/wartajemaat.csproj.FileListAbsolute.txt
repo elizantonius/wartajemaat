@@ -1,0 +1,15 @@
+E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat\bin\Debug\netstandard2.0\wartajemaat.deps.json
+E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat\bin\Debug\netstandard2.0\wartajemaat.dll
+E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat\bin\Debug\netstandard2.0\wartajemaat.pdb
+E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat\obj\Debug\netstandard2.0\wartajemaat.csproj.AssemblyReference.cache
+E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat\obj\Debug\netstandard2.0\wartajemaat.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat\obj\Debug\netstandard2.0\wartajemaat.AssemblyInfoInputs.cache
+E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat\obj\Debug\netstandard2.0\wartajemaat.AssemblyInfo.cs
+E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat\obj\Debug\netstandard2.0\wartajemaat.csproj.CoreCompileInputs.cache
+E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat\obj\Debug\netstandard2.0\wartajemaat.dll
+E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat\obj\Debug\netstandard2.0\refint\wartajemaat.dll
+E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat\obj\Debug\netstandard2.0\wartajemaat.pdb
+E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat\obj\Debug\netstandard2.0\ref\wartajemaat.dll
