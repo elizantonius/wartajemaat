@@ -13,3 +13,8 @@ E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat\obj\Debug\netsta
 E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat\obj\Debug\netstandard2.0\refint\wartajemaat.dll
 E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat\obj\Debug\netstandard2.0\wartajemaat.pdb
 E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat\obj\Debug\netstandard2.0\ref\wartajemaat.dll
+E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat\obj\Debug\netstandard2.0\Beranda.xaml.g.cs
+E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat\obj\Debug\netstandard2.0\HamMenu.xaml.g.cs
+E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat\obj\Debug\netstandard2.0\IbadahMinggu.xaml.g.cs
+E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat\obj\Debug\netstandard2.0\NavBar.xaml.g.cs
+E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat\obj\Debug\netstandard2.0\Renungan.xaml.g.cs

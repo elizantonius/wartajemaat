@@ -627,3 +627,7 @@ E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat.Android\obj\Debu
 E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat.Android\obj\Debug\120\stamp\_GenerateJavaStubs.stamp
 E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat.Android\obj\Debug\120\stamp\_GeneratePackageManagerJava.stamp
 E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat.Android\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
+E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat.Android\obj\Debug\120\res\drawable\more.png
+E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat.Android\obj\Debug\120\res\drawable\bible.png
+E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat.Android\obj\Debug\120\res\drawable\church.png
+E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat.Android\obj\Debug\120\res\drawable\home.png

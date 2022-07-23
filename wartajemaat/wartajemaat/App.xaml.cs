@@ -10,7 +10,7 @@ namespace wartajemaat
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new NavBar();
         }
 
         protected override void OnStart()
