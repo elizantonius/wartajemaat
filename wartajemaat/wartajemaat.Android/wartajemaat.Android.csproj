@@ -83,7 +83,9 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\icon.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\imgBeranda.jpg" />
+  </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\wartajemaat\wartajemaat.csproj">
       <Project>{5BDAAEAD-41D7-471E-B56F-86103CF67DB3}</Project>

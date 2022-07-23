@@ -631,3 +631,4 @@ E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat.Android\obj\Debu
 E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat.Android\obj\Debug\120\res\drawable\bible.png
 E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat.Android\obj\Debug\120\res\drawable\church.png
 E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat.Android\obj\Debug\120\res\drawable\home.png
+E:\Workstation\elizantonius\wartajemaat\wartajemaat\wartajemaat.Android\obj\Debug\120\res\drawable\imgberanda.jpg
