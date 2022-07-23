@@ -5,9 +5,11 @@
     <ContentPage.Content>
         <StackLayout BackgroundColor="White">
 
-            <Frame BorderColor="White" CornerRadius="160" Grid.Row="0" Grid.Column="1" Margin="0,10,0,1" HasShadow="True">
+            <Frame BorderColor="White" CornerRadius="160" Grid.Row="0" Grid.Column="1" Margin="0,12,0,1" HasShadow="True" Padding="0">
                 <Image Source="imgBeranda" WidthRequest="350" ></Image>
             </Frame>
+
+            <Label Text="GPI Papua Bukit Zaitun" TextColor="Black" FontSize="24" FontAttributes="Bold" Margin="25"></Label>
             
         </StackLayout>
     </ContentPage.Content>
